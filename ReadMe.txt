@@ -22,5 +22,3 @@ With_background_subtraction:	https://drive.google.com/file/d/0Bzo4mHXxCsCmdVlDen
 
 
 RESULT:	You will see your fingers detected in the screen by RED coloured boxes. In the MATLAB terminal, the number of fingers and the finger array as described in the PS will be printed.
-
-PS: Please contact me (9892923181) if you get any problem in running and checking the algorithm.
